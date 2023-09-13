@@ -8,8 +8,7 @@
 
 
 <p align="center">
-  <img src= "![image](https://github.com/ShreyasGosavi404/ShreyasGosavi404/assets/66720396/348d049b-c858-442a-907c-177794adf148)
-">
+  <img src= "https://i.giphy.com/media/dz7odtsoSkj15FAhIV/giphy.webp">
 </p>
 
 ---
