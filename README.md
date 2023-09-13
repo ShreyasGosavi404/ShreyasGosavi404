@@ -8,7 +8,8 @@
 
 
 <p align="center">
-  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://img.freepik.com/free-vector/modern-megapolis-river-night_1441-2830.jpg?w=1380&t=st=1694629065~exp=1694629665~hmac=98e5bd479a04906ab1842658b925c2af7c17377f88213bb0f0e31374ec8028a4)">
+  <img src= "![image](https://github.com/ShreyasGosavi404/ShreyasGosavi404/assets/66720396/348d049b-c858-442a-907c-177794adf148)
+">
 </p>
 
 ---
